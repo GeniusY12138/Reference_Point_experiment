@@ -18,7 +18,7 @@ class C(BaseConstants):
 
     # number of unique rounds -1. Setting this to 1 gives two unique rounds.
     # There are 42 total comparisons, so this should be set to 41.
-    ORDER_MAX = 3 # For Demo
+    ORDER_MAX = 41
 
     # ORDER RANDOMIZATION SHOULD NOT BE DONE IN THE BASE CONSTANTS
     # randomize order of rounds
